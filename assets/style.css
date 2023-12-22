@@ -1,0 +1,23 @@
+
+html{
+    height:100%;
+}
+
+body {
+    font-family: 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+}   
+
+#sidebarToggle{
+    position:absolute;
+    top: 10px;
+    
+}
+#sidebar{
+    left: 0px;
+}
+#main{
+    position: absolute;
+    left:280px;
+    top: 200px;
+}
